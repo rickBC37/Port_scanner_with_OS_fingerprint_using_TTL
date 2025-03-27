@@ -10,7 +10,7 @@ It's a Port scanner built using Python and Scapy.
 ## :information_source: How to use?
 ```bash
 # Clone the repository
-$ git clone https://github.com/rickBC37/Port_scanner_with_OS_fingerprint_using_TTL
+$ git clone https://github.com/Mistra1n/Port_scanner_with_OS_fingerprint_using_TTL.git
 
 # Enter the repository
 $ cd Port_scanner_with_OS_fingerprint_using_TTL
