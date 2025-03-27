@@ -10,10 +10,10 @@ It's a Port scanner built using Python and Scapy.
 ## :information_source: How to use?
 ```bash
 # Clone the repository
-$ git clone https://github.com/kurogai/100-redteam-projects.git
+$ git clone https://github.com/rickBC37/Port_scanner_with_OS_fingerprint_using_TTL
 
 # Enter the repository
-$ cd 100-redteam-projects\Projects\12_Port_scanner_with_OS_fingerprint_using_TTL
+$ cd Port_scanner_with_OS_fingerprint_using_TTL
 
 # Open a terminal and run
 $ sudo python scanner_with_os.py <target IP address>
@@ -32,8 +32,5 @@ pip install scapy
 #conda install
 conda install -c conda-forge scapy
 ```
-
-
-
 
 
